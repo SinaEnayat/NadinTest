@@ -1,0 +1,11 @@
+E:\ASP\myProj\ProductManagement.Core\bin\Debug\net8.0\ProductManagement.Core.deps.json
+E:\ASP\myProj\ProductManagement.Core\bin\Debug\net8.0\ProductManagement.Core.dll
+E:\ASP\myProj\ProductManagement.Core\bin\Debug\net8.0\ProductManagement.Core.pdb
+E:\ASP\myProj\ProductManagement.Core\obj\Debug\net8.0\ProductManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP\myProj\ProductManagement.Core\obj\Debug\net8.0\ProductManagement.Core.AssemblyInfoInputs.cache
+E:\ASP\myProj\ProductManagement.Core\obj\Debug\net8.0\ProductManagement.Core.AssemblyInfo.cs
+E:\ASP\myProj\ProductManagement.Core\obj\Debug\net8.0\ProductManagement.Core.csproj.CoreCompileInputs.cache
+E:\ASP\myProj\ProductManagement.Core\obj\Debug\net8.0\ProductManagement.Core.dll
+E:\ASP\myProj\ProductManagement.Core\obj\Debug\net8.0\refint\ProductManagement.Core.dll
+E:\ASP\myProj\ProductManagement.Core\obj\Debug\net8.0\ProductManagement.Core.pdb
+E:\ASP\myProj\ProductManagement.Core\obj\Debug\net8.0\ref\ProductManagement.Core.dll

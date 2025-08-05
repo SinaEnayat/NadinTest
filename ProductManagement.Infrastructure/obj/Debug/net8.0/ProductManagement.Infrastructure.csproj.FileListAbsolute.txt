@@ -1,0 +1,17 @@
+E:\ASP\myProj\ProductManagement.Infrastructure\bin\Debug\net8.0\ProductManagement.Infrastructure.deps.json
+E:\ASP\myProj\ProductManagement.Infrastructure\bin\Debug\net8.0\ProductManagement.Infrastructure.runtimeconfig.json
+E:\ASP\myProj\ProductManagement.Infrastructure\bin\Debug\net8.0\ProductManagement.Infrastructure.dll
+E:\ASP\myProj\ProductManagement.Infrastructure\bin\Debug\net8.0\ProductManagement.Infrastructure.pdb
+E:\ASP\myProj\ProductManagement.Infrastructure\bin\Debug\net8.0\ProductManagement.Core.dll
+E:\ASP\myProj\ProductManagement.Infrastructure\bin\Debug\net8.0\ProductManagement.Core.pdb
+E:\ASP\myProj\ProductManagement.Infrastructure\obj\Debug\net8.0\ProductManagement.Infrastructure.csproj.AssemblyReference.cache
+E:\ASP\myProj\ProductManagement.Infrastructure\obj\Debug\net8.0\ProductManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP\myProj\ProductManagement.Infrastructure\obj\Debug\net8.0\ProductManagement.Infrastructure.AssemblyInfoInputs.cache
+E:\ASP\myProj\ProductManagement.Infrastructure\obj\Debug\net8.0\ProductManagement.Infrastructure.AssemblyInfo.cs
+E:\ASP\myProj\ProductManagement.Infrastructure\obj\Debug\net8.0\ProductManagement.Infrastructure.csproj.CoreCompileInputs.cache
+E:\ASP\myProj\ProductManagement.Infrastructure\obj\Debug\net8.0\ProductM.6D34A66C.Up2Date
+E:\ASP\myProj\ProductManagement.Infrastructure\obj\Debug\net8.0\ProductManagement.Infrastructure.dll
+E:\ASP\myProj\ProductManagement.Infrastructure\obj\Debug\net8.0\refint\ProductManagement.Infrastructure.dll
+E:\ASP\myProj\ProductManagement.Infrastructure\obj\Debug\net8.0\ProductManagement.Infrastructure.pdb
+E:\ASP\myProj\ProductManagement.Infrastructure\obj\Debug\net8.0\ProductManagement.Infrastructure.genruntimeconfig.cache
+E:\ASP\myProj\ProductManagement.Infrastructure\obj\Debug\net8.0\ref\ProductManagement.Infrastructure.dll
